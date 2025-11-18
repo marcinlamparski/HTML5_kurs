@@ -287,7 +287,7 @@ Stwórz nawigację dla strony ze strukturą:
 - Usługi (z 3 podkategoriami)
 - Portfolio (z 5 projektami)
 - Kontakt
-
+```html
 <nav>
     <ul>
         <li><a href="/">Home</a></li>
@@ -301,7 +301,7 @@ Stwórz nawigację dla strony ze strukturą:
         </li>
     </ul>
 </nav>
-
+```
 
 ### Ćwiczenie 2: Spis Treści
 Wszystko tworzymy w jednym pliku, linki do anchor
