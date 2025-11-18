@@ -262,7 +262,7 @@ Linki to serce internetu - łączą strony między sobą. W tym module nauczysz 
 
 ### Ćwiczenie 1: Nawigacja
 Cel
-Stworzenie pełnofunkcjonalnej nawigacji dla witryny internetowej z hierarchiczną strukturą menu.
+Stworzenie pełnofunkcjonalnej nawigacji dla witryny internetowej z hierarchiczną strukturą menu. Linki mają prowadzić do co najmniej jednej strony wewn i zewn.
 
 Wymagania
 Nawigacja powinna zawierać następujące elementy:
