@@ -345,3 +345,4 @@ W tym module nauczyliśmy się:
 ---
 
 *Gotowy do Modułu 6? Nauczymy się Multimedia! 🚀*
+Miejsce do wysłania ćwiczenia: https://www.dropbox.com/request/vGYbHhaqwCmuUEBVtWFT
