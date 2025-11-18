@@ -263,14 +263,15 @@ Linki to serce internetu - łączą strony między sobą. W tym module nauczysz 
 ### Ćwiczenie 1: Nawigacja
 
 Stwórz nawigację dla strony ze strukturą:
+
 - Home
 - O nas
 - Usługi (z 3 podkategoriami)
 - Portfolio (z 5 projektami)
 - Kontakt
 
-### Ćwiczenie 2: Table of Contents
-
+### Ćwiczenie 2: Spis Treści
+Wszystko tworzymy w jednym pliku, linki do anchor
 Utwórz artykuł z:
 - Spis treści na górze
 - Minimum 5 sekcji
