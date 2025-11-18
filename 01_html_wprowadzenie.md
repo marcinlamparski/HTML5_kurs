@@ -88,6 +88,12 @@ Przeglądarka czyta znaczniki HTML i wyświetla je użytkownikowi w czytelnej fo
 - Mówi przeglądarce że to dokument HTML5
 - Zawsze dokładnie taki sam
 
+#### `<meta charset="UTF-8">` - określa metadane
+- są to ukryte informacje o stronie internetowej
+- w tym przypadku informuje przeglądarkę internetową,
+  jaki zestaw znaków ma być używany do poprawnego wyświetlania treści strony
+- UTF-8 obsługuje szeroką gamę znaków z praktycznie wszystkich języków świata
+  
 #### `<html lang="pl">` - Element Główny
 - Opakowuje cały dokument
 - `lang="pl"` oznacza że strona jest po polsku
