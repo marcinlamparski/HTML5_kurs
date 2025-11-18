@@ -174,7 +174,12 @@ Linki to serce internetu - łączą strony między sobą. W tym module nauczysz 
 <!-- type - typ dokumentu -->
 <a href="dokument.pdf" type="application/pdf">PDF</a>
 ```
-
+| Wartość          | Znaczenie                                                  | Zastosowanie                                   |
+| ---------------- | ---------------------------------------------------------- | ---------------------------------------------- |
+| rel="nofollow"   | Wyszukiwarka nie powinna podążać za tym linkiem            | Linki do reklam, komentarze, untrusted content |
+| rel="external"   | Link prowadzi na zewnętrzną stronę                         | Informacja dla skryptów JavaScript             |
+| rel="noopener"   | Bezpieczeństwo — nowa karta nie ma dostępu dowindow.opener | Ochrona przytarget="_blank"                    |
+| rel="noreferrer" | Nie wysyła informacji o pochodzeniu                        | Prywatność użytkownika                         |
 ---
 
 ## Część 6: Nawigacja
