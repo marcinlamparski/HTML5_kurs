@@ -90,7 +90,7 @@ Linki to serce internetu - łączą strony między sobą. W tym module nauczysz 
 <a href="blog.html#post-1">Link do postu 1</a>
 ```
 
-### Table of Contents
+### Spis treści
 
 ```html
 <nav id="toc">
