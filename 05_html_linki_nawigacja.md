@@ -261,6 +261,24 @@ Linki to serce internetu - łączą strony między sobą. W tym module nauczysz 
 ## Część 8: Ćwiczenia
 
 ### Ćwiczenie 1: Nawigacja
+Cel
+Stworzenie pełnofunkcjonalnej nawigacji dla witryny internetowej z hierarchiczną strukturą menu.
+
+Wymagania
+Nawigacja powinna zawierać następujące elementy:
+
+Home — link do strony głównej
+
+O nas — link do podstrony
+
+Usługi — kategoria z trzema podkategoriami
+
+Portfolio — kategoria z pięcioma projektami
+
+Kontakt — link do strony kontaktowej
+
+Wskazówki do Implementacji
+Zamiast tworzyć proste linki w linii, skorzystaj z elementu semantycznego <nav> oraz struktury zagnieżdżonych list (<ul> i <li>). Zagnieżdżone listy pozwolą na utworzenie menu wielopoziomowego
 
 Stwórz nawigację dla strony ze strukturą:
 
@@ -269,6 +287,21 @@ Stwórz nawigację dla strony ze strukturą:
 - Usługi (z 3 podkategoriami)
 - Portfolio (z 5 projektami)
 - Kontakt
+
+<nav>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li>
+            <a href="/uslugi">Usługi</a>
+            <ul>
+                <li><a href="/uslugi/web">Web Design</a></li>
+                <li><a href="/uslugi/seo">SEO</a></li>
+                <li><a href="/uslugi/marketing">Marketing</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
 
 ### Ćwiczenie 2: Spis Treści
 Wszystko tworzymy w jednym pliku, linki do anchor
