@@ -277,7 +277,7 @@ Utwórz tabelę zawierającą:
 - Scalane wiersze (rowspan)
 - Przynajmniej 2 scalenia każdego typu
 
-### Ćwiczenie 3: Horarium
+### Ćwiczenie 3: Plan lekcji
 
 Stwórz rozkład zajęć:
 - Dni tygodnia jako kolumny
