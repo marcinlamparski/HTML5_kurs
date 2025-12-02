@@ -308,3 +308,5 @@ Utwórz tabelę danych biznesowych:
 ---
 
 *Gotowy do Modułu 8? Nauczymy się Formularzy! 🚀*
+
+[Miejce na pliki kl 3](https://www.dropbox.com/request/Xc4w0xXrdPg3PYDKjpUd)
