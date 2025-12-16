@@ -466,3 +466,5 @@ W tej części nauczyłeś się:
 
 **Następnie:** W Części 2 nauczysz się zaawansowanych pól (select, checkbox, radio) i walidacji!
 
+Link do wysłania pracy HTML + zrzut ekranu:  https://www.dropbox.com/request/vYWPazVz9IfD1U3lZM6T
+
