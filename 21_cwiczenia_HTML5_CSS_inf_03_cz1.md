@@ -904,3 +904,7 @@ background-color: rgb(240,240,240);
 | 14 | Właściwości czcionki | font-family, font-size, font-weight, font-style, line-height |
 | 15 | Kolory i tła | color, background-color (hex, rgb, nazwy) |
 | 16 | Mini-projekt wizytówka | Wszystko razem! |
+
+Link do wysłania ćwiczeń (tylko plik HTML) 
+
+Klasa 3TIe Jastrzębie Zdrój: https://www.dropbox.com/request/3P3rnorUeObc2RZLnr7s
