@@ -695,7 +695,7 @@ background-color: rgb(240,240,240);
         <div class="task-content">
             <p><strong>Polecenie:</strong> Ćwiczenie w dwóch częściach:</p>
             <ul style="margin: 10px 0 10px 20px; color: #555;">
-                <li><strong>Część A:</strong> Jedną regułą CSS nadaj styl dla <code>h2</code>, <code>h3</code> i <code>h4</code> w <code>#ex13-area</code>: kolor <code>#2d6a4f</code>, dolna granica <code>1px solid #84fab0</code></li>
+                <li><strong>Część A:</strong> Jedną regułą CSS nadaj styl dla <code>h2</code>, <code>h3</code> i <code>h4</code> w <code>#ex13-area</code>: kolor <code>#2d6a4f</code>, border-bottom <code>1px solid #84fab0</code></li>
                 <li><strong>Część B:</strong> Użyj <code>* { }</code> dla elementów w <code>#ex13-box</code>: ustaw <code>box-sizing: border-box</code> i <code>font-family: Arial, sans-serif</code></li>
             </ul>
             <div class="info-box">💡 Grupowanie: <code>h2, h3, h4 { }</code> — przecinek oznacza "ORAZ". Zamiast pisać 3 reguły, piszesz jedną!</div>
