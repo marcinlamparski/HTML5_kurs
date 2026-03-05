@@ -973,3 +973,7 @@ max-width: 600px;                 /* maksymalna szerokość */
 | Nr | Temat | Zakres |
 |----|-------|--------|
 | 16 | 🏆 Formularz rejestracji | Wszystko z bloków A–D w nowym pliku |
+
+Link do wysłania plików ćwiczeń:
+
+Klasa 3 TIe Jastrzębie Zdrój: https://www.dropbox.com/request/0YvpR9U7kG5AyN9UzRI9
