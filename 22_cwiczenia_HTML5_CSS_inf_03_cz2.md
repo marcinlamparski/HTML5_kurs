@@ -600,7 +600,7 @@ max-width: 600px;                 /* maksymalna szerokość */
 #box-b { padding: 20px; background-color: #90caf9; }
 #box-c { padding: 40px; background-color: #64b5f6; }</pre>
             </div>
-            <div class="info-box">💡 Padding powiększa element OD ŚRODKA — tekst się "oddycha" od krawędzi.<br>
+            <div class="info-box">💡 Padding powiększa element OD ŚRODKA — tekst się "odpycha" od krawędzi.<br>
             Sprawdź w F12 → DevTools → najedź na element → zobaczysz kolorowy box model!</div>
             <!-- ↓↓↓ TUTAJ DODAJESZ CSS I OBSERWUJESZ — Ćwiczenie 9 ↓↓↓ -->
             <div class="ex-area" id="ex9-area">
