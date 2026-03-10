@@ -1278,3 +1278,7 @@ space-around:      [A]    [B]    [C]    (odstępy wokół)
 | 14 | Galeria zdjęć | flex-wrap + justify-content: center |
 | 15 | Karta pozioma (ikona + tekst) | align-items: center wewnątrz karty |
 | 16 | 🏆 Strona szkoły / firmy | Wszystkie wzorce Flexbox w nowym pliku |
+
+Miejsce na wysłanie plików pracy:
+
+kl 3 TIe Jastrzębie: https://www.dropbox.com/request/f9ESlPFZOdyyfu2tnxH2
