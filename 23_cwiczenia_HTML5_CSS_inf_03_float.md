@@ -1152,3 +1152,7 @@ Struktura HTML:
 | 14 | Logo po lewej, menu po prawej | float: left + float: right |
 | 15 | Kompletny układ strony | wszystkie elementy razem |
 | 16 | 🏆 Projekt egzaminacyjny | osobny plik + styl.css |
+
+Miejsce na wysłania prac:
+
+kl 3 TIe Jastrzębie: https://www.dropbox.com/request/avgeCQiIQZ27ldNyysh9
