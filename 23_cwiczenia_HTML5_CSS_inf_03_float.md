@@ -1156,3 +1156,5 @@ Struktura HTML:
 Miejsce na wysłania prac:
 
 kl 3 TIe Jastrzębie: https://www.dropbox.com/request/avgeCQiIQZ27ldNyysh9
+
+UWAGA Brak wysłania efektów pracy w terminie wyznaczonym przez nauczyciela to ocena ndst!
