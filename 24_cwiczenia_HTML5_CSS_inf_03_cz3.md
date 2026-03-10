@@ -1282,3 +1282,6 @@ space-around:      [A]    [B]    [C]    (odstępy wokół)
 Miejsce na wysłanie plików pracy:
 
 kl 3 TIe Jastrzębie: https://www.dropbox.com/request/f9ESlPFZOdyyfu2tnxH2
+
+
+UWAGA Brak wysłania efektów pracy w terminie wyznaczonym przez nauczyciela to ocena ndst!
