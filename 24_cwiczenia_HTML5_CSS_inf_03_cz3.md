@@ -1222,7 +1222,7 @@ space-around:      [A]    [B]    [C]    (odstępy wokół)
                 <ul style="margin-left: 20px; color: #555; line-height: 2.0;">
                     <li>Kolor tła <code>rgb(74, 20, 140)</code>, kolor tekstu biały, padding: 20px</li>
                     <li>Treść wyśrodkowana: <code>display: flex</code> + <code>justify-content: center</code> + <code>align-items: center</code></li>
-                    <li>Tekst stopki: "© 2025 Technikum Informatyczne" + Twój numer PESEL czcionką pogrubioną</li>
+                    <li>Tekst stopki: "© 2025 Technikum Informatyczne" + Twój fikcyjny numer PESEL (11 cyfr) czcionką pogrubioną</li>
                 </ul>
             </div>
 
