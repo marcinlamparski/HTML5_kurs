@@ -977,3 +977,5 @@ max-width: 600px;                 /* maksymalna szerokość */
 Link do wysłania plików ćwiczeń (tylko plik HTML):
 
 Klasa 3 TIe Jastrzębie Zdrój: https://www.dropbox.com/request/0YvpR9U7kG5AyN9UzRI9
+
+Klasa 4 TIe Jastrzębie Zdrój: https://www.dropbox.com/request/BvcS23qHZY2s4uk3K1R6
