@@ -1288,3 +1288,7 @@ position: sticky   → ??? (relative + fixed, przykleja się)</pre>
 | 14 | Stały panel boczny | sidebar_fixed.html |
 | 15 | Sekcja hero — warstwy: nakładka + treść | relative + 2× absolute + z-index |
 | 16 | 🏆 Projekt egzaminacyjny | pozycjonowanie_projekt.html + styl.css |
+
+Miejsce na wysłania pracy:
+
+kl3 TIe Jastrzębie https://www.dropbox.com/request/yvi40xoNLJ0Q1kf1NtNV
