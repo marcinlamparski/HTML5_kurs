@@ -135,7 +135,7 @@ Liczba błędów po poprawkach: _______
 
 ## ✏️ ZADANIE 2 — Znajdź i popraw błędy
 
-Poniższy kod HTML zawiera **8 błędów**. Znajdź je wszystkie, zaznacz i popraw.
+Poniższy kod HTML zawiera **błędy**. Znajdź je wszystkie, zaznacz i popraw.
 Następnie wklej poprawiony kod do walidatora — cel to wynik „No errors or warnings".
 
 ```html
@@ -194,6 +194,11 @@ Następnie wklej poprawiony kod do walidatora — cel to wynik „No errors or w
 | 6 | | | |
 | 7 | | | |
 | 8 | | | |
+| 9 | | | |
+| 10 | | | |
+| 11 | | | |
+| 12 | | | |
+| 13 | | | |
 
 **Wynik walidacji po poprawkach:** ________________________________
 
