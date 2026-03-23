@@ -104,8 +104,8 @@ Na egzaminie praktycznym INF.03 egzaminator sprawdza m.in.:
 - czy tagi są prawidłowo zagnieżdżone i zamknięte
 - czy kod przechodzi walidację W3C
 
-> ⚠️ Dobra praktyka: **zawsze waliduj plik przed zapisaniem na egzaminie!**
-> Jeden niezamknięty tag może kosztować Cię kilka punktów.
+> ⚠️ Dobra praktyka: **zawsze sprawdzaj plik przed zapisaniem na egzaminie!**
+> Jeden niezamknięty tag może kosztować Cię punkty.
 
 ---
 
