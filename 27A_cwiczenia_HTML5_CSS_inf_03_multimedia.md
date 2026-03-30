@@ -405,12 +405,12 @@ projekt/
             <div class="code-example">
                 <h4>✏️ Uzupełnij ścieżki src:</h4>
                 <pre>
-<!-- Z pliku index.html: -->
+-- Z pliku index.html: --
 logo.png         → &lt;img src="???" alt="Logo"&gt;
 banner.jpg       → &lt;img src="???" alt="Baner"&gt;
 zdjecie1.jpg     → &lt;img src="???" alt="Zdjęcie"&gt;
 
-<!-- Z pliku podstrony/onas.html: -->
+-- Z pliku podstrony/onas.html: --
 logo.png         → &lt;img src="???" alt="Logo"&gt;
 banner.jpg       → &lt;img src="???" alt="Baner"&gt;
 zdjecie1.jpg     → &lt;img src="???" alt="Zdjęcie"&gt;</pre>
