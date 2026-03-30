@@ -61,7 +61,7 @@ Szybka referencja wszystkich ważnych tagów, atrybutów i konceptów HTML5.
 <i>Kursywa</i>
 <mark>Zaznaczony tekst</mark>
 <small>Mały tekst</small>
-<del>Usunięty tekst</del>
+<del>Usunięty tekst, przekreślony</del>
 <ins>Wstawiony tekst</ins>
 
 <!-- Cytaty -->
@@ -82,6 +82,13 @@ Szybka referencja wszystkich ważnych tagów, atrybutów i konceptów HTML5.
 <hr>                    <!-- Linia pozioma -->
 <nbsp>                  <!-- Spacja nieprzełamywalna -->
 <wbr>                   <!-- Wskazówka łamania linii -->
+
+<!-- Niesemantyncze formatowania - Unikać! -->
+<b>Pogrubienie teksty</b>
+<u>Tekst podreślony</u>
+<i>Kursywa</i>
+<s>Przekreślenie</s>
+
 ```
 
 ---
