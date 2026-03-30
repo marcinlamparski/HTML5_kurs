@@ -387,7 +387,7 @@ width/height → wymiary odtwarzacza
             <div class="difficulty">Trudność: <span class="difficulty-star">⭐⭐</span></div>
         </div>
         <div class="task-content">
-            <p><strong>Polecenie:</strong> To ćwiczenie rozwiązujesz na papierze lub w edytorze tekstowym (nie w przeglądarce). Na podstawie poniższej struktury folderów zapisz poprawne ścieżki <code>src</code> dla każdego przypadku.</p>
+            <p><strong>Polecenie:</strong> To ćwiczenie rozwiązujesz w edytorze tekstowym (nie w przeglądarce). Na podstawie poniższej struktury folderów zapisz poprawne ścieżki. Plik z rozwiązaniem załącz do paczki *.zip i prześlij do oceny. <code>src</code> dla każdego przypadku.</p>
             <div class="code-example">
                 <h4>📁 Struktura projektu:</h4>
                 <pre>
@@ -1257,3 +1257,7 @@ preload     → "none" | "metadata" | "auto"
 | 14 | `<video>` z posterem | controls, poster, source mp4/webm |
 | 15 | Atrybuty video | autoplay, loop, muted, preload |
 | 16 | 🏆 Galeria multimedialna | styl.css + wszystkie techniki |
+
+
+Miejsce na wysłanie prac
+Klasa 3 TIe JS - [https://www.dropbox.com/request/Bj0IUNLjMbAtwGpIJw06]
