@@ -600,4 +600,4 @@ Szybka referencja wszystkich ważnych tagów, atrybutów i konceptów HTML5.
 
 ---
 
-*Szybka Referencja - Print i Sharej!* 🎓
+*Szybka Referencja - Print & Share!* 🎓
