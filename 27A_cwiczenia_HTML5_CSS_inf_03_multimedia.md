@@ -648,7 +648,7 @@ object-fit: scale-down; /* mniejszy z: contain lub none */</pre>
 
                 <div id="ex6-kontenery">
                     <!-- 5 divów .ex6-ramka, każdy z img i <p> z nazwą wartości -->
-                    <!-- src="https://picsum.photos/id/30/400/300" -->
+                    <!-- src="https://picsum.photos/id/30/300/400" -->
                 </div>
 
             </div>
