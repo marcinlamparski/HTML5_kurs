@@ -73,8 +73,7 @@ Szybka referencja wszystkich ważnych tagów, atrybutów i konceptów HTML5.
 <!-- Kod -->
 <code>kod inline</code>
 <pre>
-    Wstępnie sformatowany kod
-    Z zachowaniem spacji
+Służy do wyświetlania tekstu preformatowanego – zachowuje on spacje, tabulatory i znaki nowej linii dokładnie tak, jak zapisano je w     kodzie źródłowym. Tekst wewnątrz jest domyślnie renderowany czcionką o stałej szerokości (monospace). Jest idealny do wyświetlania kodu źródłowego, sztuki ASCII oraz wierszy
 </pre>
 
 <!-- Specjalne -->
