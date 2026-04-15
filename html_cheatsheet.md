@@ -63,6 +63,8 @@ Szybka referencja wszystkich ważnych tagów, atrybutów i konceptów HTML5.
 <small>Mały tekst</small>
 <del>Usunięty tekst, przekreślony</del>
 <ins>Wstawiony tekst</ins>
+<sub>indeks dolny    
+<sup>indeks górny
 
 <!-- Cytaty -->
 <blockquote cite="http://example.com">
