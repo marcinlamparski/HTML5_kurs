@@ -225,7 +225,7 @@ Tabele to strukturalny sposób na prezentację danych tabelarycznych. W tym modu
 ## Część 6: Dostępność Tabel
 
 ### Caption
-#### Opis powyżej tabeli
+Opis powyżej tabeli
 
 ```html
 <table>
@@ -241,6 +241,9 @@ Tabele to strukturalny sposób na prezentację danych tabelarycznych. W tym modu
 
 ### Scope Attribute
 
+Atrybut scope w tabelach HTML służy do określenia zasięgu komórki nagłówkowej (<th>), wskazując czy odnosi się ona do wiersza, kolumny, czy ich grup.
+
+Chociaż nie zmienia on wyglądu tabeli w przeglądarce, jest kluczowy dla dostępności (WCAG) – pozwala czytnikom ekranu poprawnie powiązać dane z odpowiednimi nagłówkami, co ułatwia osobom niewidomym zrozumienie struktury tabeli.
 ```html
 <table>
     <thead>
