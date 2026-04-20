@@ -225,6 +225,7 @@ Tabele to strukturalny sposób na prezentację danych tabelarycznych. W tym modu
 ## Część 6: Dostępność Tabel
 
 ### Caption
+#### Opis powyżej tabeli
 
 ```html
 <table>
