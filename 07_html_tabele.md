@@ -38,12 +38,6 @@ Tabele to strukturalny sposób na prezentację danych tabelarycznych. W tym modu
 - `<tr>` - wiersz
 - `<th>` - nagłówek (zwykle pogrubiony)
 - `<td>` - komórka z danymi
-```
-Semantyczne
-```
-- `<thead>` - Definiuje blok nagłówkowy (tytuły kolumn).
-- `<tbody>` - Grupuje główną treść tabeli.
-- `<tfoot>` - Zawiera podsumowanie lub stopkę tabeli.
 
 ---
 
