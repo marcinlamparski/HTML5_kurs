@@ -1359,3 +1359,8 @@ thead th:hover {
 | 14 | Paginacja pod tabelą | nav z przyciskami stron |
 | 15 | Pasek postępu w komórce tabeli | div zagnieżdżony w td, width % |
 | 16 | 🏆 Panel administracyjny | panel.html + styl.css — wszystkie techniki |
+
+
+Wykonane ćwiczenia wysłać:
+
+3TIe JAS https://www.dropbox.com/request/npji3p1oyxueoai4cwew
